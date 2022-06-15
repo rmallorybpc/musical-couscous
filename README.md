@@ -94,7 +94,7 @@ When you want to create a crosslink, try typing the title of an issue or pull re
   TBD-step-2-notes.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><strong>:dart: Step 2: Find a commit in history</strong></summary>
 
 ### You did Resolve Duplicate Issues! :tada:
@@ -131,7 +131,7 @@ A SHA is a reference to a specific object. In this case, it's a reference to a c
   TBD-step-3-notes.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><strong>:wrench: Step 3: Fix a broken sidebar</strong></summary>
 
 ### Nice work finishing Find a commit in history :sparkles:
