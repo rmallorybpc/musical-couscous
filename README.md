@@ -131,7 +131,7 @@ A SHA is a reference to a specific object. In this case, it's a reference to a c
   TBD-step-3-notes.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><strong>:wrench: Step 3: Fix a broken sidebar</strong></summary>
 
 ### Nice work finishing Find a commit in history :sparkles:
@@ -183,7 +183,7 @@ When you're looking at a commit on GitHub, you can see a lot of information. Fro
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><strong>:checkered_flag: Finish</strong></summary>
 
 ### Congratulations friend, you've completed this course! :tada:
