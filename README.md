@@ -67,7 +67,7 @@ GitHub has special capabilities to help reference other information on GitHub. F
 
 ![a screenshot of an issue linking to a PR, and a PR with a cross-reference to the issue](https://user-images.githubusercontent.com/16547949/67594663-d9710900-f732-11e9-8df8-d3173d952bd5.png)
 
-<details id=1 open>
+<details id=1>
 <summary><strong>:zap: Step 1: Resolve Duplicate Issues</strong></summary>
 
 ### Welcome to "Connect the dots in a GitHub repository"! :wave:
@@ -94,7 +94,7 @@ When you want to create a crosslink, try typing the title of an issue or pull re
   TBD-step-2-notes.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><strong>:dart: Step 2: Find a commit in history</strong></summary>
 
 ### You did Resolve Duplicate Issues! :tada:
